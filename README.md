@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav hirapara</h1>
 <h3 align="center">A passionate Software Engineer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav444g&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav444g" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fomarjarvis.medium.com%2Fwhy-do-i-want-to-become-a-software-engineer-ed189a187a32&psig=AOvVaw2NKw6zRr93bSpavCvv4iTJ&ust=1697461130182000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICRkMyN-IEDFQAAAAAdAAAAABAE" /> </p>
 
 - 🌱 I’m currently learning **python**
 
