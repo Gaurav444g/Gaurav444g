@@ -1,8 +1,9 @@
-
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif)](https://gaurav444g.io)
 <h1 align="center">Hi 👋, I'm Gaurav hirapara</h1>
-<h3 align="center">A passionate Software Engineer from India.</h3>
+<h3 align="center">A passionate Android Devloper from India.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fomarjarvis.medium.com%2Fwhy-do-i-want-to-become-a-software-engineer-ed189a187a32&psig=AOvVaw2NKw6zRr93bSpavCvv4iTJ&ust=1697461130182000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICRkMyN-IEDFQAAAAAdAAAAABAE" /> </p>
+
 
 - 🌱 I’m currently learning **python**
 
